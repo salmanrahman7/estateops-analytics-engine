@@ -4,6 +4,12 @@ An enterprise-grade PropTech RevOps and Business Intelligence solution engineere
 
 ---
 
+## Live Demo
+
+🔗 **Interactive Live Template:** [View Live Google Sheet Template]([https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1F_hmRigq2Dqg1g-RUKrR3A2jVjf71VW9mpfjcSYgQBk/edit?usp=sharing))
+
+---
+
 > ⚠️ **Data Privacy Note**
 > The dataset, financial records, and client information in this repository consist of synthetic mock data generated for testing and demonstration purposes. It does not represent live financial transactions or actual individuals.
 
