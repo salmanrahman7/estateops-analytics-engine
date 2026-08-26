@@ -6,7 +6,7 @@ An enterprise-grade PropTech RevOps and Business Intelligence solution engineere
 
 ## Live Demo
 
-🔗 **Interactive Live Template:** [View Live Google Sheet Template]([https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1F_hmRigq2Dqg1g-RUKrR3A2jVjf71VW9mpfjcSYgQBk/edit?usp=sharing))
+🔗 **Interactive Live Template:** [View Live Google Sheet Template](https://docs.google.com/spreadsheets/d/1F_hmRigq2Dqg1g-RUKrR3A2jVjf71VW9mpfjcSYgQBk/edit?usp=sharing)
 
 ---
 
